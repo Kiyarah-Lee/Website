@@ -93,3 +93,17 @@ a.btn-branding-outline {
   text-align: center;
   padding-bottom: 30px;
 }
+footer {
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.github {
+  color: var(--branding-color);
+  font-weight: bold;
+}
+
+.netlify {
+  color: var(--branding-color);
+  font-weight: bold;
+}
